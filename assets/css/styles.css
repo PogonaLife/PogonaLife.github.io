@@ -307,7 +307,7 @@ nav a:hover {
   position: absolute;
   z-index: 1;
   bottom: 20%;
-  left: 65%;
+  left: 90%;
   transform: translateX(-50%);
   opacity: 0;
   transition: opacity 0.3s;
@@ -317,7 +317,7 @@ nav a:hover {
   content: "";
   position: absolute;
   top: 20%;
-  left: 65%;
+  left: 90%;
   margin-left: -5px;
   border-width: 5px;
   border-style: solid;
